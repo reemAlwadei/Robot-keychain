@@ -30,7 +30,7 @@ The design strictly follows the specified technical requirements:
 ## Onshape Model Link
 
 You can view and interact with the original CAD model directly on Onshape:
-*https://cad.onshape.com/documents/971682da037a54ae79de4f9e/w/58dc22a67ce827992eeaf456/e/8a92cb128245eac293f4f0c6?renderMode=0&uiState=6a5e90469e1a48404957d5e9
+* https://cad.onshape.com/documents/971682da037a54ae79de4f9e/w/58dc22a67ce827992eeaf456/e/8a92cb128245eac293f4f0c6?renderMode=0&uiState=6a5e90469e1a48404957d5e9
 
 ---
 
