@@ -22,7 +22,7 @@ The design strictly follows the specified technical requirements:
 ---
 
 ## Design Preview
-<img width="500" alt="IMG_5867" src="https://github.com/user-attachments/assets/d7188e61-3209-4589-b1a0-d7c2d135cd15" />
+<img width="500" alt="IMG_5870" src="https://github.com/user-attachments/assets/a5f29aa2-6dc2-49d8-b09f-806cba09709d" />
 
 
 ---
